@@ -8,6 +8,7 @@ codeberg：<https://codeberg.org/hi-tpext>
 
 |  扩展           | 更新   | 日期 |
 |  ----           | ----  |----  |
+| tpext-tinyvue   |vue3 UI库，可替换tpextbuilder|2024-07-28|
 | tpextmanager    | 修复扩展远程下载问题 |  2023-12-08   |
 | tpext           | tpext\think\View::fetch()方法自动推断`view_path`，以支持模板`include`、`extend`时候使用相对路径 |  2023-12-04   |
 | tpext           | 新特性：支持在app目录创建控制器覆盖扩展中的控制器方法 |  2023-12-01   |
