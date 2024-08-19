@@ -16,6 +16,5 @@ codeberg：<https://codeberg.org/hi-tpext>
 | wokcrontab      | 支持多进程、支持使用GuzzleHttp发起请求               |  2023-12-01  |
 | tpextbuilder    | 性能优化，刷新表格时不重复初始化左侧树，其他优化...    |  2023-11-24  |
 
-## 开放计划
-
-tpextbuilder使用Vue框架做一些改进：https://opentiny.design/
+## tinyvue
+tp6基于vue3的版本可试用，见：https://github.com/hi-tpext/tpext-myadmin/tree/5.0
