@@ -8,6 +8,7 @@ codeberg：<https://codeberg.org/hi-tpext>
 
 |  扩展           | 更新   | 日期 |
 |  ----           | ----  |----  |
+| tpext-vexipui   |vue3 UI库，可替换tpextbuilder|2025-02|
 | tpextbuilder    |Image组件显示缩略图|2025-01|
 | tpext-cms       |进一步完善，除静态生成外，新增支持动态解析|2024-12|
 | tpextbuilder    |增加`tableHelper`，用于显示表格页面|2024-11|
