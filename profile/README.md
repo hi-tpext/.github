@@ -8,8 +8,8 @@ codeberg：<https://codeberg.org/hi-tpext>
 
 |  扩展           | 更新   | 日期 |
 |  ----           | ----  |----  |
-| 支持多语言i18n|tp8.1/webman2.1|2026-06|
-| pgsql支持|tp8.1/webman2.1|2026-05|
+|tp8.1/webman2.1| 支持多语言i18n|2026-06|
+|tp8.1/webman2.1| pgsql支持|2026-05|
 | tpext-myadmin[5.2.x/4.5.x]   |采用vue3构建页面|2025-09|
 | tpext-vexipui   |vue3 UI库，可替换tpextbuilder|2025-02|
 | tpextbuilder    |Image组件显示缩略图|2025-01|
