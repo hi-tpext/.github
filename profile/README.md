@@ -44,3 +44,27 @@ codeberg：<https://codeberg.org/hi-tpext>
 }
 ```
 然后 运行 `composer u`
+
+## 如何切换语言？(How to switch languages?)
+
+### thinkphp
+
+`config/lang.php`:
+
+```php
+return [
+    'default_lang' => 'zh-cn',// en
+    //...
+];
+```
+
+### webman
+
+`config/plugin/tpext/core/lang.php`:
+
+```php
+return [
+    'default_lang' => 'zh-cn',// en
+    //...
+];
+```
