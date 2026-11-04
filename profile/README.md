@@ -42,7 +42,7 @@ codeberg：<https://codeberg.org/hi-tpext>
     "ichynul/tpextmyadmin": "^5.2",
     "tpext-daisyui": "^5.0.1",//添加
     "tpext-tinyvue": "^5.1",//添加
-    "tpext-vexipui": "^5.1",//或者这个，二者选其一
+    "tpext-vexipui": "^5.1",//或者这个，三者选其一
 }
 ```
 然后 运行 `composer u`
