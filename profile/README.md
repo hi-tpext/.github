@@ -8,6 +8,7 @@ codeberg：<https://codeberg.org/hi-tpext>
 
 |  扩展           | 更新   | 日期 |
 |  ----           | ----  |----  |
+|tpext-daisyui| 基于DaisyUI 可替换tpextbuilder|2026-11|
 |tp8.1/webman2.1| 支持多语言i18n|2026-06|
 |tp8.1/webman2.1| pgsql支持|2026-05|
 | tpext-myadmin[5.2.x/4.5.x]   |采用vue3构建页面|2025-09|
@@ -39,6 +40,7 @@ codeberg：<https://codeberg.org/hi-tpext>
 "require":{
     "topthink/framework": "^8.1",
     "ichynul/tpextmyadmin": "^5.2",
+    "tpext-daisyui": "^5.0.1",//添加
     "tpext-tinyvue": "^5.1",//添加
     "tpext-vexipui": "^5.1",//或者这个，二者选其一
 }
